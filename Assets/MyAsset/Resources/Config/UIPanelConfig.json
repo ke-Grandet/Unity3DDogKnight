@@ -1,0 +1,27 @@
+{
+    "SceneArr": 
+    [
+        {
+            "SceneName": "MainScene",
+            "PanelArr": 
+            [
+                {
+                    "PanelName": "LoginPanel",
+                    "PanelPath": "UI/LoginPanel"
+                },
+                {
+                    "PanelName": "RegistPanel",
+                    "PanelPath": "UI/RegistPanel"
+                },
+                {
+                    "PanelName": "JoystickPanel",
+                    "PanelPath": "UI/JoystickPanel"
+                },
+                {
+                    "PanelName": "SkillPanel",
+                    "PanelPath": "UI/SkillPanel"
+                }
+            ]
+        }
+    ]
+}

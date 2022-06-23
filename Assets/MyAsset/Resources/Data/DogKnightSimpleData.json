@@ -1,0 +1,12 @@
+{
+	"Horizontal": 0.0,
+	"Vertical": 0.0,
+	"WalkSpeed": 2,
+	"RunSpeed": 4,
+	"SpeedLimit": 2,
+	"MaxHealth": 50,
+	"Health": 50,
+	"InvincibleTime": 1.5,
+	"AttackDamage": 10,
+	"AttackDistance": 2
+}

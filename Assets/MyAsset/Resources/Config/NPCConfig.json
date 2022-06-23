@@ -1,0 +1,25 @@
+{
+	"NPCArr": [
+		{
+			"PrefabPath": "Prefab/Character/GruntPolyart",
+			"PositionX": 0,
+			"PositionY": 0,
+			"PositionZ": 41
+
+		},
+		{
+			"PrefabPath": "Prefab/Character/GruntPBR",
+			"PositionX": 40,
+			"PositionY": 0,
+			"PositionZ": 40
+
+		},
+		{
+			"PrefabPath": "Prefab/Character/GruntHP",
+			"PositionX": 40,
+			"PositionY": 0,
+			"PositionZ": 0
+
+		}
+	]
+}

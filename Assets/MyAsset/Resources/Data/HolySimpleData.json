@@ -1,0 +1,13 @@
+{
+	"MaxHealth": 100,
+	"Health": 30,
+	"EnemyWaveCount": 20,
+	"EnemyComeCount": 5,
+	"EnemyWaveInterval": 20,
+	"EnemyComeInterval": 5,
+	"TimerNextWave": 0,
+	"DefendWave": 0,
+	"DefeatEnemyCount": 0,
+	"IsGameOver": false,
+	"IsGamePause":  false
+}

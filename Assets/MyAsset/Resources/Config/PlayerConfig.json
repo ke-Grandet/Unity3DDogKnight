@@ -1,0 +1,5 @@
+{
+    "Character": "DogKnightCharacter",
+    "PrefabPath": "Prefab/Character/DogPolyart",
+    "HolyPrefab": "Prefab/Character/HolyCharacter"
+}

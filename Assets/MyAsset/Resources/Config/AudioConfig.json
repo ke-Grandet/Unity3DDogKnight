@@ -1,0 +1,28 @@
+{
+    "ClipArr": [
+        {
+            "ClipName": "BGM_01",
+            "ClipPath": "Audio/Music/BGM_01"
+        },
+        {
+            "ClipName": "BGM_02",
+            "ClipPath": "Audio/Music/BGM_02"
+        },
+        {
+            "ClipName": "BGM_03",
+            "ClipPath": "Audio/Music/BGM_03"
+        },
+        {
+            "ClipName": "BGM_04",
+            "ClipPath": "Audio/Music/BGM_04"
+        },
+        {
+            "ClipName": "AWP_Swing_Axe_01",
+            "ClipPath": "Audio/Sound/AWP_Swing_Axe_01"
+        },
+        {
+            "ClipName": "Swing1-Free-1",
+            "ClipPath": "Audio/Sound/Swing1-Free-1"
+        }
+    ]
+}
