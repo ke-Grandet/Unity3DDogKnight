@@ -10,3 +10,6 @@
 
 ## 截图
 <img width='720' src='https://raw.githubusercontent.com/ke-Grandet/Unity3DDogKnight/master/Screenshot/1.png' />
+<img width='720' src='https://raw.githubusercontent.com/ke-Grandet/Unity3DDogKnight/master/Screenshot/2.png' />
+<img width='720' src='https://raw.githubusercontent.com/ke-Grandet/Unity3DDogKnight/master/Screenshot/3.png' />
+<img width='720' src='https://raw.githubusercontent.com/ke-Grandet/Unity3DDogKnight/master/Screenshot/4.png' />

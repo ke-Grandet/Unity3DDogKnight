@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3965038585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 829232db96d88913787fd1205c740cb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a5462f6469bfcda6f45ec777210a20e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MyAsset/Resources/Prefab/Test/Red.prefab
+Dependencies: []

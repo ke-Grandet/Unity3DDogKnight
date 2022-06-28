@@ -16,7 +16,7 @@ public class WebManager : Singleton<WebManager>
         queue.Enqueue(task);
         if (queue.Count == 1)
         {
-            mono.StartCoroutine(Download());
+            Main.Instance.StartCoroutine(Download());
         }
     }
 

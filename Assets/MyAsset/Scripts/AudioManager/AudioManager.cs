@@ -28,7 +28,7 @@ public class AudioManager : Singleton<AudioManager>
     private AudioManager()
     {
         audioSourceList = new();
-        backgroundMusic = gameObject.AddComponent<AudioSource>();
+        backgroundMusic = Main.Instance.gameObject.AddComponent<AudioSource>();
         backgroundMusic.loop = true;
         // 读取配置文件
         config = ResourceManager.Instance.FindResourceFromJson<AudioConfig>(StringConfigPath.Audio_Config);
@@ -117,7 +117,7 @@ public class AudioManager : Singleton<AudioManager>
                 return audioSource;
             }
         }
-        AudioSource newSource = gameObject.AddComponent<AudioSource>();
+        AudioSource newSource = Main.Instance.gameObject.AddComponent<AudioSource>();
         audioSourceList.Add(newSource);
         times++;
         if (times > 50)  // 固定次数获取之后释放一次多余对象
@@ -151,7 +151,7 @@ public class AudioManager : Singleton<AudioManager>
             foreach (AudioSource audioSource in toRemoveList)
             {
                 audioSourceList.Remove(audioSource);
-                GameObject.Destroy(audioSource);
+                Object.Destroy(audioSource);
             }
         }
         toRemoveList.Clear();

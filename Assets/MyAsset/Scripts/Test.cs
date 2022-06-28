@@ -25,16 +25,18 @@ public class PanelModel
 public class Test : MonoBehaviour
 {
 
-    // Start is called before the first frame update
     void Start()
     {
         Model model = ResourceManager.Instance.FindResourceFromJson<Model>(StringConfigPath.UI_Panel_Config);
     }
 
-    // Update is called once per frame
     void Update()
     {
 
     }
 
+    private void LateUpdate()
+    {
+
+    }
 }

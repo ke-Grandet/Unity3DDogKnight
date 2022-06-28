@@ -11,11 +11,11 @@ using UnityEngine;
 public abstract class Singleton<T> where T : class
 {
     private static T instance;
-    protected GameObject gameObject = Main.Instance.gameObject;
-    protected MonoBehaviour mono = Main.Instance.Mono;
+    //protected GameObject gameObject = Main.Instance.gameObject;
+    //protected MonoBehaviour mono = Main.Instance.Mono;
 
-    public GameObject GameObject { get { return gameObject; } set { gameObject = value; } }
-    public MonoBehaviour Mono { get { return mono; } set { mono = value; } }
+    //public GameObject GameObject { get { return gameObject; } set { gameObject = value; } }
+    //public MonoBehaviour Mono { get { return mono; } set { mono = value; } }
 
     public static T Instance
     {

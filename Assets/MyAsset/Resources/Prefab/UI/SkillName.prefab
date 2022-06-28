@@ -68,8 +68,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u6280\u80FD\u540D\u79F0"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a39731277fed17c4ebf635222eb5db24, type: 2}
-  m_sharedMaterial: {fileID: 3107497750222635758, guid: a39731277fed17c4ebf635222eb5db24, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 6c066bdf21aa2fb41a1ef6ee0701e586, type: 2}
+  m_sharedMaterial: {fileID: 6958019186644587234, guid: 6c066bdf21aa2fb41a1ef6ee0701e586, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
